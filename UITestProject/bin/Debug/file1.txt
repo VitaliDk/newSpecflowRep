@@ -1,0 +1,1014 @@
+2019-10-24 13:32:29.7564|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:32:30.9816|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:32:31.0842|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:32:31.0852|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:32:31.0852|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:32:32.0683|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:32:33.1449|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:32:33.1549|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:32:33.3862|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:32:33.3862|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:32:33.3862|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:32:33.6387|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:32:33.6387|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:32:33.8106|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:32:33.8106|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:32:33.8996|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:32:33.8996|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:32:34.0702|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:32:34.0702|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:32:34.2302|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:32:34.2302|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:32:34.3272|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:32:34.3272|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:32:34.3272|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:32:34.5042|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:32:34.5042|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:32:34.6523|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:32:34.6523|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:32:34.7363|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:32:34.7363|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:32:34.8874|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:32:34.8874|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:32:35.0376|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:32:35.0386|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:32:35.1211|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 13:33:19.2046|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:33:19.2046|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:33:22.2579|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 13:36:02.6586|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:36:03.9040|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:36:04.0390|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:36:04.0390|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:36:04.0390|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:36:04.9953|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:36:06.0236|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:36:06.0236|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:36:06.2658|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:36:06.2658|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:36:06.2748|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:36:06.7340|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:36:06.7340|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:36:06.9211|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:36:06.9211|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:36:06.9897|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:36:06.9897|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:36:22.9947|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:36:24.2255|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:36:24.3340|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:36:24.3385|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:36:24.3385|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:36:25.2567|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:36:26.2824|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:36:26.2964|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:36:26.5206|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:36:26.5245|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:36:26.5245|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:36:26.9430|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:36:26.9430|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:36:27.0873|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:36:27.0873|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:36:27.1774|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:36:27.1774|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:36:27.3487|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:36:27.3487|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:36:27.4991|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:36:27.4991|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:36:27.5971|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:36:27.5971|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:36:27.5971|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:36:27.9901|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:36:27.9901|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:36:28.1514|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:36:28.1514|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:36:28.2494|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:36:28.2494|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:36:28.4074|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:36:28.4074|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:36:28.6014|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:36:28.6014|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:36:28.7004|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 13:37:12.1247|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:37:12.1247|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:37:15.1610|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 13:39:52.7851|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:39:54.0301|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:39:54.1358|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:39:54.1358|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:39:54.1358|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:39:55.1050|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:39:56.1510|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:39:56.1640|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:39:56.3935|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:39:56.3975|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:39:56.3975|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:39:56.8036|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:39:56.8036|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:39:56.9661|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:39:56.9661|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:39:57.0638|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:39:57.0638|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:39:57.2313|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:39:57.2313|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:39:57.4003|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:39:57.4003|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:39:57.4994|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:39:57.4994|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:39:57.4994|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:39:57.8824|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:39:57.8824|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:39:58.0726|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:39:58.0726|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:39:58.1685|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:39:58.1685|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:39:58.3196|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:39:58.3196|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:39:58.4836|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:39:58.4836|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:39:58.5836|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 13:40:11.6641|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 0
+2019-10-24 13:40:14.6737|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 1
+2019-10-24 13:40:17.7018|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 2
+2019-10-24 13:40:20.7375|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 3
+2019-10-24 13:40:23.7734|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 4
+2019-10-24 13:40:26.7841|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 5
+2019-10-24 13:40:29.8104|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 6
+2019-10-24 13:40:32.8670|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 7
+2019-10-24 13:40:35.9149|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 8
+2019-10-24 13:40:38.9609|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 9
+2019-10-24 13:40:41.9927|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:40:41.9927|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:40:45.0181|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 13:45:01.8429|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:45:03.0272|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:45:03.1352|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:45:03.1352|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:45:03.1352|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:45:04.0920|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:45:05.0830|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:45:05.0950|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:45:05.3087|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:45:05.3087|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:45:05.3087|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:45:05.5877|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:45:05.5877|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:45:05.7817|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:45:05.7817|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:45:05.8757|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:45:05.8757|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:45:06.0321|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:45:06.0321|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:45:06.1891|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:45:06.1891|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:45:06.2791|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:45:06.2791|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:45:06.2791|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:45:06.4351|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:45:06.4351|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:45:06.6071|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:45:06.6071|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:45:06.6931|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:45:06.6931|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:45:06.8471|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:45:06.8471|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:45:07.0031|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:45:07.0031|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:45:07.0981|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 13:45:20.8493|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 0
+2019-10-24 13:45:20.8503|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:23.9039|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 1
+2019-10-24 13:45:23.9039|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:26.9381|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 2
+2019-10-24 13:45:26.9381|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:29.9675|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 3
+2019-10-24 13:45:29.9675|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:33.0081|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 4
+2019-10-24 13:45:33.0081|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:36.0577|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 5
+2019-10-24 13:45:36.0577|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:39.0936|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 6
+2019-10-24 13:45:39.0936|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:42.1414|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 7
+2019-10-24 13:45:42.1414|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:45.1751|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 8
+2019-10-24 13:45:45.1751|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:48.2178|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 9
+2019-10-24 13:45:48.2268|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:51.2572|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:51.2572|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:45:54.3342|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 13:48:27.2373|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:48:28.4791|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:48:28.5841|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:48:28.5891|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:48:28.5891|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:48:34.6481|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:48:35.7278|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:48:35.7278|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:48:35.9718|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:48:35.9778|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:48:35.9778|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:48:36.4234|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:48:36.4234|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:48:36.5865|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:48:36.5865|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:48:36.7405|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:48:36.7415|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:48:36.8976|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:48:36.8976|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:48:37.0706|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:48:37.0706|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:48:37.1646|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:48:37.1646|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:48:37.1646|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:48:37.5938|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:48:37.5938|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:48:37.7502|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:48:37.7502|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:48:37.8512|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:48:37.8512|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:48:38.0042|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:48:38.0042|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:48:38.1802|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:48:38.1802|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:48:38.2827|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 13:48:48.3277|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:48:48.3277|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:48:48.4787|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: SDFSFSFS
+2019-10-24 13:48:51.5428|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 13:49:55.5275|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:49:56.7281|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:49:56.8351|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:49:56.8401|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:49:56.8401|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:49:57.8443|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:49:58.8723|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:49:58.8853|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:49:59.1186|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:49:59.1186|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:49:59.1186|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:49:59.6066|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:49:59.6066|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:49:59.8216|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:49:59.8216|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:49:59.9189|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:49:59.9189|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:50:00.1114|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:50:00.1114|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:50:00.2691|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:50:00.2691|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:50:00.3441|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:50:00.3441|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:50:00.3441|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:50:00.8006|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:50:00.8006|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:50:01.0079|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:50:01.0079|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:50:01.1049|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:50:01.1049|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:50:01.2589|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:50:01.2589|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:50:01.4599|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:50:01.4639|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:50:21.7599|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:50:22.9675|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:50:23.0710|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:50:23.0710|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:50:23.0710|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:50:23.9619|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:50:25.0350|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:50:25.0570|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:50:25.2968|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:50:25.2968|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:50:25.3068|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:50:25.5853|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:50:25.5853|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:50:25.7576|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:50:25.7576|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:50:25.8601|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:50:25.8601|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:50:26.0280|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:50:26.0280|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:50:26.1920|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:50:26.1920|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:50:26.2800|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:50:26.2800|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:50:26.2800|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:50:26.7591|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:50:26.7591|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:50:26.9591|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:50:26.9591|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:50:27.0581|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:50:27.0581|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:50:27.2211|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:50:27.2211|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:50:27.3731|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:50:27.3731|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:50:27.4765|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 13:50:40.5520|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 0
+2019-10-24 13:50:40.5520|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'0')]
+2019-10-24 13:50:43.5839|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 1
+2019-10-24 13:50:43.5869|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //a[contains(text(),'1')]
+2019-10-24 13:50:43.6049|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //a[contains(text(),'1')]
+2019-10-24 13:50:43.6049|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //a[contains(text(),'1')]
+2019-10-24 13:50:43.6839|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: SDFSFSFS
+2019-10-24 13:50:46.7291|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 13:56:51.8186|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:56:53.1289|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:56:53.2364|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:56:53.2424|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:56:53.2424|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:56:54.2708|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:56:55.3888|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:56:55.4018|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:56:55.6503|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:56:55.6503|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:56:55.6503|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:56:56.1146|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:56:56.1146|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:56:56.2936|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:56:56.2936|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:56:56.3936|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:56:56.3936|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:56:56.5401|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:56:56.5401|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:56:56.7246|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:56:56.7246|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:56:56.8064|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:56:56.8064|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:56:56.8064|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:56:57.2184|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:56:57.2184|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:56:57.4095|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:56:57.4095|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:56:57.4971|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:56:57.4971|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:56:57.6391|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:56:57.6391|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:56:57.8062|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:56:57.8062|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:57:15.2708|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:57:16.5357|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:57:16.6477|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:57:16.6527|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:57:16.6527|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:57:17.4772|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:57:18.5514|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:57:18.5644|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:57:18.7694|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:57:18.7754|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:57:18.7754|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:57:19.2314|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:57:19.2314|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:57:19.4165|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:57:19.4165|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:57:19.5218|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:57:19.5218|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:57:19.6728|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:57:19.6728|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:57:19.8388|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:57:19.8388|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:57:19.9308|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:57:19.9308|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:57:19.9308|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:57:20.3478|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:57:20.3478|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:57:20.5008|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:57:20.5008|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:57:20.6058|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:57:20.6058|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:57:20.7539|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:57:20.7539|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:57:20.9118|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:57:20.9118|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:57:21.0008|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 13:57:34.0755|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 0
+2019-10-24 13:57:34.0755|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'0')]
+2019-10-24 13:57:37.1238|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 1
+2019-10-24 13:57:37.1238|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'1')]
+2019-10-24 13:57:40.1707|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 2
+2019-10-24 13:57:40.1707|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'2')]
+2019-10-24 13:57:43.2426|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 3
+2019-10-24 13:57:43.2426|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'3')]
+2019-10-24 13:57:46.2916|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 4
+2019-10-24 13:57:46.2916|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'4')]
+2019-10-24 13:57:49.3506|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 5
+2019-10-24 13:57:49.3515|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'5')]
+2019-10-24 13:57:52.3871|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 6
+2019-10-24 13:57:52.3871|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'6')]
+2019-10-24 13:57:55.4575|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 7
+2019-10-24 13:57:55.4665|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'7')]
+2019-10-24 13:57:58.4993|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 8
+2019-10-24 13:57:58.4993|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'8')]
+2019-10-24 13:58:01.5197|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 9
+2019-10-24 13:58:01.5197|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'9')]
+2019-10-24 13:58:04.5397|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'9')]
+2019-10-24 13:58:04.5397|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'9')]
+2019-10-24 13:58:07.5611|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 13:58:43.0432|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:58:44.2567|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:58:44.3718|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:58:44.3718|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:58:44.3718|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:58:45.3111|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:58:46.4122|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:58:46.4292|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:58:46.6764|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:58:46.6764|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:58:46.6845|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:58:47.2135|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:58:47.2135|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:58:47.4060|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:58:47.4060|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:58:47.5250|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:58:47.5250|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:58:47.6880|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:58:47.6880|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:58:47.8620|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:58:47.8620|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:58:47.9610|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:58:47.9610|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:58:47.9610|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:58:48.4862|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:58:48.4862|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:58:48.6822|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:58:48.6822|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:58:48.8232|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:58:48.8232|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:58:49.0242|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:58:49.0242|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:58:49.2302|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:58:49.2302|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:59:08.8314|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 13:59:10.0826|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 13:59:10.1878|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 13:59:10.1878|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 13:59:10.1958|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 13:59:11.0970|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:59:12.1482|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 13:59:12.1632|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 13:59:12.3794|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:59:12.3834|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:59:12.3834|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:59:12.8234|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:59:12.8234|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 13:59:12.9786|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:59:12.9786|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 13:59:13.0819|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:59:13.0819|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 13:59:13.2481|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:59:13.2481|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 13:59:13.4061|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:59:13.4061|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 13:59:13.4897|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:59:13.4897|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:59:13.4897|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 13:59:13.8870|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:59:13.8870|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 13:59:14.0591|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:59:14.0591|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:59:14.1691|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:59:14.1691|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 13:59:14.3221|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:59:14.3221|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 13:59:14.4714|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:59:14.4714|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 13:59:14.5654|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 13:59:27.6118|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 0
+2019-10-24 13:59:27.6118|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'0')]
+2019-10-24 13:59:30.6752|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 1
+2019-10-24 13:59:30.6752|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'1')]
+2019-10-24 13:59:33.7183|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 2
+2019-10-24 13:59:33.7183|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'2')]
+2019-10-24 13:59:36.7353|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 3
+2019-10-24 13:59:36.7353|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'3')]
+2019-10-24 13:59:39.7637|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 4
+2019-10-24 13:59:39.7637|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'4')]
+2019-10-24 13:59:42.8162|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 5
+2019-10-24 13:59:42.8162|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'5')]
+2019-10-24 13:59:45.8723|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 6
+2019-10-24 13:59:45.8723|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'6')]
+2019-10-24 13:59:48.9317|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 7
+2019-10-24 13:59:48.9317|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'7')]
+2019-10-24 13:59:51.9490|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 8
+2019-10-24 13:59:51.9490|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'8')]
+2019-10-24 13:59:55.0000|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 9
+2019-10-24 13:59:55.0000|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'9')]
+2019-10-24 13:59:58.0386|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'9')]
+2019-10-24 13:59:58.0426|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: div[@class='dx-datagrid-headers']/following::a[contains(text(),'9')]
+2019-10-24 14:00:01.0933|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 14:04:09.3290|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 14:04:10.6591|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 14:04:10.7591|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 14:04:10.7591|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 14:04:10.7591|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 14:04:11.6993|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:04:12.7593|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:04:12.7593|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 14:04:12.9813|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:04:12.9813|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:04:12.9813|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:04:13.4533|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:04:13.4533|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:04:13.5973|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:04:13.5973|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:04:13.6914|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:04:13.6914|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:04:13.8554|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:04:13.8554|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:04:14.0044|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:04:14.0044|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:04:14.1094|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:04:14.1094|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:04:14.1094|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:04:14.5234|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:04:14.5244|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:04:14.7214|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:04:14.7214|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:04:14.8124|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:04:14.8124|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:04:14.9494|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:04:14.9494|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:04:15.1026|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:04:15.1026|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:04:15.1966|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 14:04:28.2307|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 0
+2019-10-24 14:04:28.2307|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'0')]
+2019-10-24 14:04:31.2872|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 1
+2019-10-24 14:04:31.2872|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'1')]
+2019-10-24 14:04:34.3498|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 2
+2019-10-24 14:04:34.3498|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'2')]
+2019-10-24 14:04:37.3914|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 3
+2019-10-24 14:04:37.3914|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'3')]
+2019-10-24 14:04:40.4308|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 4
+2019-10-24 14:04:40.4308|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'4')]
+2019-10-24 14:04:43.4473|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 5
+2019-10-24 14:04:43.4473|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'5')]
+2019-10-24 14:04:46.4682|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 6
+2019-10-24 14:04:46.4682|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'6')]
+2019-10-24 14:04:49.4976|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 7
+2019-10-24 14:04:49.4976|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'7')]
+2019-10-24 14:04:52.5263|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 8
+2019-10-24 14:04:52.5263|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'8')]
+2019-10-24 14:04:55.5690|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 9
+2019-10-24 14:04:55.5750|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'9')]
+2019-10-24 14:04:58.5893|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'9')]
+2019-10-24 14:04:58.5893|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: div[text()='DMI Order ID']/following::a[contains(text(),'9')]
+2019-10-24 14:05:01.6109|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 14:06:39.8598|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 14:06:41.3458|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 14:06:41.4598|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 14:06:41.4648|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 14:06:41.4648|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 14:06:47.3939|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:06:48.4774|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:06:48.4774|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 14:06:48.7094|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:06:48.7134|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:06:48.7134|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:06:49.1625|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:06:49.1625|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:06:49.3428|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:06:49.3428|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:06:49.4823|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:06:49.4823|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:06:49.6323|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:06:49.6323|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:06:49.7953|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:06:49.7953|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:06:49.8893|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:06:49.8893|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:06:49.8893|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:06:50.3216|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:06:50.3216|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:06:50.4954|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:06:50.4954|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:06:50.6315|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:06:50.6315|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:06:50.7834|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:06:50.7834|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:06:50.9514|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:06:50.9514|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:07:10.1286|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 14:07:11.4855|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 14:07:11.6065|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 14:07:11.6065|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 14:07:11.6065|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 14:07:12.5449|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:07:13.5972|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:07:13.6122|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 14:07:13.8322|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:07:13.8362|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:07:13.8362|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:07:14.2603|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:07:14.2603|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:07:14.4415|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:07:14.4415|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:07:14.5459|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:07:14.5459|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:07:14.7168|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:07:14.7168|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:07:14.8708|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:07:14.8708|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:07:14.9638|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:07:14.9638|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:07:14.9638|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:07:15.3994|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:07:15.3994|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:07:15.5807|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:07:15.5807|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:07:15.6847|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:07:15.6847|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:07:15.8337|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:07:15.8337|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:07:15.9887|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:07:15.9887|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:07:16.0887|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 14:07:29.1550|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 0
+2019-10-24 14:07:29.1550|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'0')]
+2019-10-24 14:07:32.2148|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 1
+2019-10-24 14:07:32.2148|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'1')]
+2019-10-24 14:07:35.2777|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 2
+2019-10-24 14:07:35.2777|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'2')]
+2019-10-24 14:07:38.2989|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 3
+2019-10-24 14:07:38.2989|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'3')]
+2019-10-24 14:07:38.3249|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'3')]
+2019-10-24 14:07:38.3249|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'3')]
+2019-10-24 14:07:38.5059|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: SDFSFSFS
+2019-10-24 14:07:41.5515|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 14:11:36.7606|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 14:11:38.0464|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 14:11:38.1566|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 14:11:38.1566|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 14:11:38.1647|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 14:11:44.2046|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:11:45.2618|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:11:45.2758|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 14:11:45.4948|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:11:45.4948|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:11:45.4948|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:11:45.9258|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:11:45.9258|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:11:46.0921|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:11:46.0921|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:11:46.2365|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:11:46.2365|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:11:46.3840|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:11:46.3840|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:11:46.5390|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:11:46.5400|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:11:46.6370|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:11:46.6370|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:11:46.6370|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:11:46.8062|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:11:46.8062|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:11:46.9402|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:11:46.9402|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:11:47.0286|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:11:47.0286|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:11:47.1856|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:11:47.1856|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:11:47.3524|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:11:47.3524|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:12:07.7777|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 14:12:09.0794|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 14:12:09.1914|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 14:12:09.1914|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 14:12:09.1984|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 14:12:10.1055|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:12:11.1624|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:12:11.1734|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 14:12:11.4061|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:12:11.4061|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:12:11.4061|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:12:11.8594|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:12:11.8594|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:12:12.0014|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:12:12.0014|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:12:12.0966|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:12:12.0966|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:12:12.2596|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:12:12.2596|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:12:12.4266|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:12:12.4266|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:12:12.5296|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:12:12.5296|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:12:12.5296|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:12:12.9628|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:12:12.9628|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:12:13.1288|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:12:13.1288|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:12:13.2278|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:12:13.2278|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:12:13.4018|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:12:13.4018|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:12:13.5868|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:12:13.5868|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:12:13.6878|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 14:12:26.7199|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 0
+2019-10-24 14:12:26.7199|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'0')]
+2019-10-24 14:12:29.7771|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 1
+2019-10-24 14:12:29.7771|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'1')]
+2019-10-24 14:12:29.7951|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'1')]
+2019-10-24 14:12:29.7951|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'1')]
+2019-10-24 14:12:29.9391|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: SDFSFSFS
+2019-10-24 14:12:32.9625|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 14:16:22.2861|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 14:16:23.5118|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 14:16:23.6078|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 14:16:23.6078|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 14:16:23.6078|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 14:16:24.5886|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:16:25.5998|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:16:25.6138|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 14:16:25.8346|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:16:25.8386|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:16:25.8386|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:16:26.1017|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:16:26.1027|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:16:26.2763|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:16:26.2763|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:16:26.3696|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:16:26.3696|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:16:26.5343|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:16:26.5343|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:16:26.6960|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:16:26.6960|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:16:26.7807|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:16:26.7807|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:16:26.7807|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:16:26.9387|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:16:26.9387|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:16:27.1007|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:16:27.1007|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:16:27.4880|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:16:27.4880|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:16:27.6467|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:16:27.6467|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:16:27.8217|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:16:27.8217|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:16:27.9221|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 14:16:40.9791|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempt to find an order on the page with a DMI Order ID containing the digit: 0
+2019-10-24 14:16:40.9791|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 0
+2019-10-24 14:16:40.9791|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'0')]
+2019-10-24 14:16:44.0372|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempt to find an order on the page with a DMI Order ID containing the digit: 1
+2019-10-24 14:16:44.0372|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 1
+2019-10-24 14:16:44.0372|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'1')]
+2019-10-24 14:16:47.0697|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempt to find an order on the page with a DMI Order ID containing the digit: 2
+2019-10-24 14:16:47.0707|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|value of i is: 2
+2019-10-24 14:16:47.0707|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'2')]
+2019-10-24 14:16:47.0707|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'2')]
+2019-10-24 14:16:47.0707|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'2')]
+2019-10-24 14:16:47.2568|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: SDFSFSFS
+2019-10-24 14:16:50.2997|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 14:22:29.6560|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 14:22:30.8458|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 14:22:30.9534|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 14:22:30.9534|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 14:22:30.9534|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 14:22:32.0339|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:22:33.1174|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:22:33.1264|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 14:22:33.3628|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:22:33.3628|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:22:33.3698|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:22:33.8518|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:22:33.8518|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:22:34.0231|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:22:34.0241|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:22:34.1349|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:22:34.1349|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:22:34.3307|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:22:34.3307|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:22:34.4967|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:22:34.4967|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:22:34.5929|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:22:34.5929|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:22:34.5929|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:22:35.0133|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:22:35.0133|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:22:35.1948|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:22:35.1958|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:22:35.2939|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:22:35.2939|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:22:35.4628|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:22:35.4628|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:22:35.6288|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:22:35.6288|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:22:35.7378|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 14:22:45.7738|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'0')]
+2019-10-24 14:22:45.7738|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'0')]
+2019-10-24 14:22:45.9803|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: SDFSFSFS
+2019-10-24 14:22:49.0603|INFO|ComponentLibrary.HelperFunctions.Find|NoSuchElementException thrown
+2019-10-24 14:38:22.4394|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 14:38:23.9013|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 14:38:24.0143|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 14:38:24.0143|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 14:38:24.0143|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 14:38:24.9669|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:38:26.0187|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:43:11.8316|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 14:43:13.1596|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 14:43:13.2616|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 14:43:13.2616|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 14:43:13.2616|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 14:43:19.2716|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:43:20.4142|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:43:20.4142|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 14:43:20.6422|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:43:20.6422|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:43:20.6512|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:43:20.9112|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:43:20.9112|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:43:21.0812|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:43:21.0812|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:43:21.1729|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:43:21.1729|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:43:21.3359|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:43:21.3359|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:43:21.7219|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:43:21.7219|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:43:21.8119|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:43:21.8119|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:43:21.8119|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:43:22.2199|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:43:22.2199|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:43:22.3819|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:43:22.3819|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:43:22.4741|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:43:22.4741|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:43:22.6301|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:43:22.6301|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:43:22.8001|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:43:22.8001|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:43:22.8961|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 14:43:32.9435|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'0')]
+2019-10-24 14:43:32.9435|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'0')]
+2019-10-24 14:43:33.1365|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: orderDetails
+2019-10-24 14:43:58.0043|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 14:44:01.9576|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 14:44:02.0688|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 14:44:02.0718|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 14:44:02.0718|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 14:44:02.9853|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:44:04.0514|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 14:44:04.0644|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.LinkText: Orders
+2019-10-24 14:44:04.2810|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:44:04.2810|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:44:04.2810|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='From']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:44:04.7263|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:44:04.7273|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'October 2019')]
+2019-10-24 14:44:04.8889|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:44:04.8889|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2019')]
+2019-10-24 14:44:04.9886|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:44:04.9886|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'2011')]
+2019-10-24 14:44:05.1686|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:44:05.1686|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[contains(text(),'Jun')]
+2019-10-24 14:44:05.3256|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:44:05.3256|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //span[text()='1']
+2019-10-24 14:44:05.4096|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:44:05.4096|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:44:05.4096|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::div[@class='dx-dropdowneditor-icon']
+2019-10-24 14:44:05.8437|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:44:05.8437|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'October 2019')]
+2019-10-24 14:44:06.0378|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:44:06.0378|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:44:06.1358|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:44:06.1358|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'2019')]
+2019-10-24 14:44:06.2758|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:44:06.2758|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[contains(text(),'Oct')]
+2019-10-24 14:44:06.4328|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:44:06.4328|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='To']/following::span[text()='1']
+2019-10-24 14:44:06.5228|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.ClassName[Contains]: order-link
+2019-10-24 14:44:19.6122|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempt to find an order on the page with a DMI Order ID containing the digit: 0
+2019-10-24 14:44:19.6122|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'0')]
+2019-10-24 14:44:22.6470|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempt to find an order on the page with a DMI Order ID containing the digit: 1
+2019-10-24 14:44:22.6500|INFO|ComponentLibrary.Tasks.Orders.ForAnyOrderOnThePage|Attempting to look for: By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'1')]
+2019-10-24 14:44:22.6650|INFO|ComponentLibrary.Actions.Click|Attempt to click element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'1')]
+2019-10-24 14:44:22.6650|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.XPath: //div[text()='DMI Order ID']/following::a[contains(text(),'1')]
+2019-10-24 14:44:22.8500|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: orderDetails
+2019-10-24 15:42:24.1626|INFO|ComponentLibrary.HelperFunctions.Find|Exception System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\danialk\Desktop\NUnitSpecflow\UITestProject\wanted_path\Screenshots\24-42-2019.03.42.PM.Png'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at ComponentLibrary.HelperFunctions.TakeScreenshot.SaveAs(IWebDriver driver, String filePath, String fileName) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\TakeScreenshot.cs:line 12
+   at ComponentLibrary.HelperFunctions.Find.Element(IWebDriver driver, By selector) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\FindElement.cs:line 25 thrown for: By.Id: Username
+2019-10-24 15:44:07.0285|INFO|ComponentLibrary.HelperFunctions.Find|Exception System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\danialk\Desktop\Screenshots\24-44-2019.03.44.PM.Png'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at ComponentLibrary.HelperFunctions.TakeScreenshot.SaveAs(IWebDriver driver, String filePath, String fileName) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\TakeScreenshot.cs:line 12
+   at ComponentLibrary.HelperFunctions.Find.Element(IWebDriver driver, By selector) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\FindElement.cs:line 25 thrown for: By.Id: Username
+2019-10-24 15:44:52.4543|INFO|ComponentLibrary.HelperFunctions.Find|Exception System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Screenshots\24-44-2019.03.44.PM.Png'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at ComponentLibrary.HelperFunctions.TakeScreenshot.SaveAs(IWebDriver driver, String filePath, String fileName) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\TakeScreenshot.cs:line 12
+   at ComponentLibrary.HelperFunctions.Find.Element(IWebDriver driver, By selector) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\FindElement.cs:line 25 thrown for: By.Id: Username
+2019-10-24 15:49:12.9861|INFO|ComponentLibrary.HelperFunctions.Find|Exception System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Screenshots\24-49-2019.03.49.PM.Png'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at ComponentLibrary.HelperFunctions.TakeScreenshot.SaveAs(IWebDriver driver, String filePath, String fileName) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\TakeScreenshot.cs:line 12
+   at ComponentLibrary.HelperFunctions.Find.Element(IWebDriver driver, By selector) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\FindElement.cs:line 25 thrown for: By.Id: Username
+2019-10-24 15:50:56.9699|INFO|ComponentLibrary.HelperFunctions.Find|Exception System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Screenshots\24-50-2019.03.50.PM.Png'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at ComponentLibrary.HelperFunctions.TakeScreenshot.SaveAs(IWebDriver driver, String filePath, String fileName) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\TakeScreenshot.cs:line 12
+   at ComponentLibrary.HelperFunctions.Find.Element(IWebDriver driver, By selector) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\FindElement.cs:line 25 thrown for: By.Id: Username
+2019-10-24 15:51:39.4542|INFO|ComponentLibrary.HelperFunctions.Find|Exception System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\danialk\Desktop\Screenshots\24-51-2019.03.51.PM.Png'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at ComponentLibrary.HelperFunctions.TakeScreenshot.SaveAs(IWebDriver driver, String filePath, String fileName) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\TakeScreenshot.cs:line 12
+   at ComponentLibrary.HelperFunctions.Find.Element(IWebDriver driver, By selector) in C:\Users\danialk\Desktop\NUnitSpecflow\ComponentLibrary\HelperFunctions\FindElement.cs:line 25 thrown for: By.Id: Username
+2019-10-24 15:52:30.3235|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 15:52:31.7996|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 15:52:31.9146|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 15:52:31.9186|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 15:52:32.4953|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 15:52:33.9056|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 15:52:34.9180|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 15:54:14.8295|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 15:54:16.3865|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 15:54:16.5035|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 15:54:16.5035|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 15:54:17.0689|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 15:54:23.4855|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 15:54:24.5667|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:12:06.3641|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 16:12:07.8309|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 16:12:07.9479|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 16:12:07.9479|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 16:12:08.5140|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 16:12:14.8763|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:12:15.9432|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:13:13.0047|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 16:13:14.4640|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 16:13:14.5686|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 16:13:14.5717|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 16:13:15.1440|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 16:13:16.5242|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:13:17.4442|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:13:57.0174|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 16:13:58.3362|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 16:13:58.4455|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 16:13:58.4455|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 16:13:58.9741|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 16:14:00.2399|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:14:01.2488|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:16:17.2460|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 16:16:18.6316|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 16:16:18.7316|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 16:16:18.7316|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 16:16:19.2803|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 16:16:20.6460|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:16:21.6324|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:23:46.9581|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 16:23:48.4340|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 16:23:48.5320|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 16:23:48.5320|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 16:23:49.0746|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 16:23:50.5674|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:23:51.5581|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:26:38.0391|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 16:26:39.4580|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 16:26:39.5762|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 16:26:39.5762|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 16:26:40.1545|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 16:26:41.4364|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:26:42.4477|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:28:13.7670|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 16:28:15.1494|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 16:28:15.2425|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 16:28:15.2425|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 16:28:15.7799|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 16:28:17.0308|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:28:18.1080|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:28:56.4119|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 16:28:58.0862|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 16:28:58.1912|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 16:28:58.1952|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 16:28:58.7632|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 16:29:00.1271|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:29:01.1728|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:35:47.0836|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Username
+2019-10-24 16:35:48.4903|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: Password
+2019-10-24 16:35:48.5999|INFO|ComponentLibrary.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-24 16:35:48.5999|INFO|ComponentLibrary.Actions.Click|Attempt to click button with id: By.Name: button
+2019-10-24 16:35:49.1521|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Name: button
+2019-10-24 16:35:50.4706|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
+2019-10-24 16:35:51.5142|INFO|ComponentLibrary.HelperFunctions.Find|Attempt to find element with Id:  By.Id: dashboard
