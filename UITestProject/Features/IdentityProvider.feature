@@ -2,7 +2,7 @@
      Testing the identity provider
 
 @mytag
-Scenario: A user is able to log in to the DMI
+Scenario: A user is able to log into the DMI
 	Given the user is on the login page
 	When the user attempts to log in
 	Then the user is redirected to the DMI

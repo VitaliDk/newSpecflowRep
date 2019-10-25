@@ -70,11 +70,11 @@ namespace UITestProject.Features
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("A user is able to log in to the DMI")]
+        [NUnit.Framework.DescriptionAttribute("A user is able to log into the DMI")]
         [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void AUserIsAbleToLogInToTheDMI()
+        public virtual void AUserIsAbleToLogIntoTheDMI()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("A user is able to log in to the DMI", null, new string[] {
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("A user is able to log into the DMI", null, new string[] {
                         "mytag"});
 #line 5
 this.ScenarioInitialize(scenarioInfo);

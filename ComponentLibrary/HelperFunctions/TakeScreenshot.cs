@@ -1,4 +1,5 @@
 ﻿using OpenQA.Selenium;
+using System.IO;
 
 namespace ComponentLibrary.HelperFunctions
 {
@@ -8,8 +9,16 @@ namespace ComponentLibrary.HelperFunctions
         {
             var ssdriver = driver as ITakesScreenshot;
             var screenshot = ssdriver.GetScreenshot();
-            var location = filePath + "\\" + fileName + ".Png";
-            screenshot.SaveAsFile(location, ScreenshotImageFormat.Png);
+            var location =  filePath + "\\" + fileName + ".Png";
+           
+            if (File.Exists(location)) 
+            { // To be rewritten properly -  functions needs to increment filenamd
+                var locationIncremented = filePath + "\\" + fileName + "2" + ".Png";
+                screenshot.SaveAsFile(locationIncremented, ScreenshotImageFormat.Png);
+            } else
+            {
+                screenshot.SaveAsFile(location, ScreenshotImageFormat.Png);
+            }
         }
     }
 }

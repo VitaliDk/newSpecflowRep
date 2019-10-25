@@ -1,4 +1,5 @@
 ﻿using NLog;
+using System;
 
 namespace ComponentLibrary.BaseClasses
 {
